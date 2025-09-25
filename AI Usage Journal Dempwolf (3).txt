@@ -1,0 +1,17 @@
+AI Usage Journal
+Saad Alkinani
+
+
+This week I worked on the INST326 Week 3 function exercises. I mostly solved the problems on my own, but I used AI in a few places where I was stuck:
+
+I asked for explanations of function basics like how to return values and how default parameters work.
+
+I had it show me simple examples of string methods (.strip(), .title(), .lower()) so I could apply them to my own code.
+
+When one of my early functions didn’t run, I used AI for debugging help — it pointed out that I had a missing return statement.
+
+I made sure to write the actual solutions myself and just used AI to clear up small questions and double-check my logic.
+
+Link to chats:
+
+https://chatgpt.com/share/68d5d42e-d51c-800d-bb55-d218b5e40873
